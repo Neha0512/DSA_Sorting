@@ -1,3 +1,6 @@
+// Time complexity = theta(m+n)
+// Aux spcae = O(1)
+
 #include<bits/stdc++.h>
 using namespace std;
 
