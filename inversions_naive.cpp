@@ -20,7 +20,7 @@ int inversions(int arr1[], int n)
 
 int main()
 {
-	int n=4;;
-	int arr1[n]={2,5,11,8};
+	int n=8;
+	int arr1[n]={2,5,11,8,3,6,9,13};
 	cout<<inversions(arr1,n);
 }
