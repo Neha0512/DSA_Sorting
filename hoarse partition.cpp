@@ -1,6 +1,6 @@
 // This takes O(1) aux space and run in O(1) time
 // In this, the pivot element is taken to be the first element
-// Hoarse is different from lomuto as in lomuto, we fix the position of pivot
+// Hoarse is different from lomuto as in lomuto, we fix the position of pivot at its correct position(drawback of horase)
 
 #include<bits/stdc++.h>
 using namespace std;
