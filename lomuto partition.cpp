@@ -1,3 +1,6 @@
+// In this partitioning method, pivot is always taken as the last element
+// Works in O(n) TC and O(1) aux. space
+
 #include<bits/stdc++.h>
 using namespace std;
 
